@@ -22,7 +22,7 @@
 		<junit.version>4.11</junit.version>
 		<log4j.version>1.2.17</log4j.version>
 
-		 <sonar.host.url>http://65.0.87.120:9000/</sonar.host.url>
+		 <sonar.host.url>http://13.232.100.43:9000/</sonar.host.url>
 		 <sonar.login>360cb9bf40f3d7c85069dfc019bdcf37c1a049bf</sonar.login>
                 
                 <!--
@@ -103,13 +103,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Mithun Technologies Releases Nexus Repository</name>
-	      <url>http://65.0.71.15:8081/repository/Wallmart-release/</url>
+	      <url>http://13.127.184.71:8081/repository/Wallmart-release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Mithun Technologies Snapshot Nexus Repository</name>
-	      <url>http://65.0.71.15:8081/repository/Wallmart-snapshot/</url>
+	      <url>http://13.127.184.71:8081/repository/Wallmart-snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
